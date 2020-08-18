@@ -1,7 +1,7 @@
 # RandoMouse ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mrkprdo/RandoMouse) ![GitHub last commit](https://img.shields.io/github/last-commit/mrkprdo/RandoMouse) ![GitHub](https://img.shields.io/github/license/mrkprdo/randomouse) 
 
 ## Just make my mouse move randomly.
-Author: Mark Prado ![GitHub followers](https://img.shields.io/github/followers/mrkprdo?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/mrkprdo?style=social)
+Author: Mark Prado ![GitHub followers](https://img.shields.io/github/followers/mrkprdo?label=follow%20@mrkprdo&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/mrkprdo?style=social)
 
 <br>
 
